@@ -11,4 +11,4 @@
 4. Cek remote url yg sudah terhubung => git remote -v
 5. Tambahkan file yg ingin di setor => git add readme.md
 6. Tambahkan pesan untuk perubahan file yang ingin di setor => git commit -m "pesannya disini"
-7. Lakukan push untuk mengirim perubahan => git push -u origin master
+7. Mengirim push atau perubahan ke server github => git push -u origin master
